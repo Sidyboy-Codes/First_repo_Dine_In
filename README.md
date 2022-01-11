@@ -1,4 +1,4 @@
-# First_repo_Dine_In
+# Dine-In by Sidyboy
 
 ### Responsive Static website using only HTML & CSS
 
